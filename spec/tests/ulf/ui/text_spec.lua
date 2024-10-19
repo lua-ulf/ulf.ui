@@ -1,0 +1,8 @@
+describe("#ulf.ui", function()
+	describe("#ulf.ui.text", function()
+		local Text = require("ulf.ui.text")
+		it("does not fail", function()
+			assert(1)
+		end)
+	end)
+end)
